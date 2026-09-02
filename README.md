@@ -100,7 +100,7 @@ The project includes **10+ SQL-based business analyses**, including:
 
 ------------------------------------------------------------------------
 
-## 📈 Power BI Dashboard
+## 📈 Power BI Dashboard ![Power BI Dashboard](powerbi_dashboard.png)
 
 An interactive Power BI dashboard was developed to provide a
 consolidated view of customer shopping behavior.
