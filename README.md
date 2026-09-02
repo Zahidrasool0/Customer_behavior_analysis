@@ -144,6 +144,8 @@ through interactive visualizations.
 
 ## 📁 Repository Structure
 
+
+
 ``` text
 Customer-Shopping-Behavior-Analysis/
 │
@@ -163,6 +165,13 @@ Customer-Shopping-Behavior-Analysis/
 ```
 
 ------------------------------------------------------------------------
+## 📂 Project Files
+
+- 📓 **Python Analysis:** [customer.ipynb](customer.ipynb)
+- 🗄️ **SQL Analysis:** [Customer_b.sql](Customer_b.sql)
+- 📊 **Power BI Dashboard:** [Customer_behaviour.pbix](Customer_behaviour.pbix)
+- 📁 **Dataset:** [customer_shopping_behavior.csv](customer_shopping_behavior.csv)
+- 🖼️ **Dashboard Screenshot:** [powerbi_dashboard.png](powerbi_dashboard.png)
 
 ## 💡 Business Value
 
